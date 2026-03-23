@@ -18,7 +18,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 ## 🚀 Live Demo
 
 <p align="center">
-  <img src="./image.png" width="100%" alt="Portfolio Preview" />
+  <img src="./assets/image.png" width="100%" alt="Portfolio Preview" />
 </p>
 
 👉 [View Live Website](https://nikhilkr33.github.io/PortNK/)
@@ -186,5 +186,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<div align="center"> Made with ❤️ by Nazmul Hossain </div>
+<div align="center"> Made with ❤️ by Nikhil Kumar </div>
 
