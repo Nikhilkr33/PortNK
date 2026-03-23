@@ -15,16 +15,11 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ---
 
-## Demo
+## 🚀 Live Demo
 
-![My Portfolio](./assets/my-portfolio.jpg)
+![Portfolio Preview](./assets/homepage.png)
 
----
-
-## Live Preview
-
-Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://codervai.vercel.app/)
+👉 [View Live Website](https://your-portfolio-link.com)
 ---
 ### 🎯 Project Structure
 ```bash
