@@ -30,8 +30,8 @@ const EducationSection = () => {
       degree: "Intermediate (Class 12)",
       school: "Swami Keshwanand Convent School, Sikar",
       mascot: "📘",
-      year: "Apr 2022 - Apr 2023",
-      achievements: ["Percentage: 79%"],
+      year: "Apr 2021 - Apr 2022",
+      achievements: ["Percentage: 89%"],
       skills: ["Physics", "Chemistry", "Mathematics"],
       description:
         "Completed higher secondary education with a strong foundation in science subjects and analytical thinking.",
@@ -40,8 +40,8 @@ const EducationSection = () => {
       degree: "Matriculation (Class 10)",
       school: "Matrix SR Sec School, Sikar",
       mascot: "📗",
-      year: "Apr 2020 - Apr 2021",
-      achievements: ["Percentage: 89%"],
+      year: "Apr 2019 - Apr 2020",
+      achievements: ["Percentage: 79%"],
       skills: ["Science", "Mathematics", "Fundamentals"],
       description:
         "Built a strong academic base with excellent performance and developed interest in technology and problem solving.",
