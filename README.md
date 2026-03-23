@@ -21,7 +21,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
   <img src="./image.png" width="100%" alt="Portfolio Preview" />
 </p>
 
-👉 [View Live Website]([https://nikhilkr33.github.io/PortNK/])
+👉 [View Live Website](https://nikhilkr33.github.io/PortNK/)
 ---
 ### 🎯 Project Structure
 ```bash
