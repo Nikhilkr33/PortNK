@@ -18,7 +18,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 ## 🚀 Live Demo
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nikhilkr33/PortNK/main/assets/images/image.png" width="100%" alt="Portfolio Preview" />
+  <img src="https://raw.githubusercontent.com/Nikhilkr33/PortNK/main/src/assets/images/image.png" width="100%" alt="Portfolio Preview" />
 </p>
 
 👉 [View Live Website](https://nikhilkr33.github.io/PortNK/)
