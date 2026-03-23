@@ -17,7 +17,9 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## 🚀 Live Demo
 
-![Portfolio Preview](./assets/homepage.png)
+<p align="center">
+  <img src="./assets/homepage.png" width="100%" />
+</p>
 
 👉 [View Live Website](https://your-portfolio-link.com)
 ---
