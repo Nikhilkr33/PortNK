@@ -18,10 +18,10 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 ## 🚀 Live Demo
 
 <p align="center">
-  <img src="./assets/image.png" width="100%" />
+  <img src="./image.png" width="100%" alt="Portfolio Preview" />
 </p>
 
-👉 [View Live Website](https://your-portfolio-link.com)
+👉 [View Live Website](https://nikhilkr33.github.io/NKPort/)
 ---
 ### 🎯 Project Structure
 ```bash
